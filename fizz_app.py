@@ -1,3 +1,3 @@
 
 def fizz(i):
-    pass
+    return i
