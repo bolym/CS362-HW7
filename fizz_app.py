@@ -1,0 +1,3 @@
+
+def fizz(i):
+    pass
